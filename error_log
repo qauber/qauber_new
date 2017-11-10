@@ -1,0 +1,11 @@
+[05-Oct-2017 23:09:47 UTC] PHP Warning:  strpos(): Empty needle in /home1/talcubat/public_html/wp-includes/functions.php on line 4318
+[05-Oct-2017 23:09:48 UTC] PHP Warning:  strpos(): Empty needle in /home1/talcubat/public_html/wp-includes/functions.php on line 4318
+[05-Oct-2017 23:09:48 UTC] mojo_plugin_activated
+[01-Nov-2017 10:36:11 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:36:15 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:36:22 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:36:25 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:37:07 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:37:12 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:37:18 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64
+[01-Nov-2017 10:37:21 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home1/talcubat/public_html/wp-content/plugins/keydesign-addon/elements/bookpreview_elem.php on line 64

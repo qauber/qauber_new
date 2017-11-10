@@ -1,0 +1,3 @@
+[24-Sep-2017 06:47:39 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/woocommerce/single-product.php on line 19
+[24-Sep-2017 06:48:21 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/woocommerce/single-product.php on line 19
+[24-Sep-2017 06:50:16 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/woocommerce/single-product.php on line 19
