@@ -20,6 +20,8 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('REVISR_WORK_TREE', '/home1/talcubat/public_html/'); // Added by Revisr
+define('REVISR_GIT_PATH', 'https://github.com/theluckyfox/temp.git'); // Added by Revisr
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home1/talcubat/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'talcubat_WPLQI');

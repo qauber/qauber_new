@@ -23,7 +23,6 @@
   $keydesign_header_image = wp_get_attachment_image_src( get_post_thumbnail_id($themetek_post_id), 'full', false );
   get_header();
 ?>
-
   <section id="single-page" class="section <?php echo esc_attr($post->post_name);?>" style="<?php echo ( !empty($themetek_page_top_padding) ? ' padding-top:'. esc_attr($themetek_page_top_padding) .';' : '' );?>
    <?php echo ( !empty($themetek_page_bottom_padding) ? ' padding-bottom:'. esc_attr($themetek_page_bottom_padding) .';' : '' );?> ">
    <?php if (empty($themetek_page_showhide_title)) { ?>

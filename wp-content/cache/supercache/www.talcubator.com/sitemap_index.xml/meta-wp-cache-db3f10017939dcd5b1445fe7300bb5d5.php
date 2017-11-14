@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Thu, 02 Nov 2017 14:22:38 GMT","Content-Type":"Content-Type: text\/xml; charset=\"UTF-8\""},"uri":"www.talcubator.com\/sitemap_index.xml","blog_id":1,"post":0,"key":"www.talcubator.com80\/sitemap_index.xml"}
